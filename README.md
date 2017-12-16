@@ -1,6 +1,6 @@
 # RELS245StudyAid
 Android app for Hebrew vocabulary memorizing. Intended to be study aid for a university class (RELS245 of TWU).
 
-https://photos.app.goo.gl/M9FSCmOnLMSFRaot2
+APK can be found here: https://play.google.com/store/apps/details?id=ca.kymotsujason.rels245studyaid
 
-v1.0 released: https://play.google.com/store/apps/details?id=ca.kymotsujason.rels245studyaid
+Current release: v1.2
